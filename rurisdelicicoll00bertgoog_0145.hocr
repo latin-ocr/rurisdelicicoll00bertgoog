@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rurisdelicicoll00bertgoog_0145.png"; bbox 0 0 2692 4459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 1658 1029 1819">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 1658 1029 1819">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 1658 1029 1819; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 200 1691 386 1819; x_wconf 76' lang='lat' dir='ltr'>LEs</span> <span class='ocrx_word' id='word_1_2' title='bbox 430 1658 1029 1818; x_wconf 73' lang='lat' dir='ltr'><em>AGRE&#39;MENS</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 222 2038 980 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 222 2038 980 2188">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 2038 980 2188; baseline 0.004 -50"><span class='ocrx_word' id='word_1_3' title='bbox 222 2038 980 2188; x_wconf 16' lang='lat' dir='ltr'><strong>,DELACAMPAGNR-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 204 2314 1020 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 204 2314 1020 2471">
+     <span class='ocr_line' id='line_1_3' title="bbox 204 2314 1020 2471; baseline 0.013 -13"><span class='ocrx_word' id='word_1_4' title='bbox 204 2368 494 2469; x_wconf 67' lang='lat' dir='ltr'>um</span> <span class='ocrx_word' id='word_1_5' title='bbox 543 2314 1020 2471; x_wconf 61' lang='lat' dir='ltr'><em>PRZ&#39;MJER.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1350 4459">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1350 4459">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1350 4459; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1350 4459; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
